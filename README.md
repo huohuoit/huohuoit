@@ -1,7 +1,7 @@
 ### ✨HuoHuo is always on the way 💗🤠💗
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
 </p>
 
 [![huohuoit's GitHub stats](https://github-readme-stats.vercel.app/api?username=huohuoit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -14,7 +14,7 @@
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-[![](https://img.shields.io/badge/OnePlus-7%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
+[![](https://img.shields.io/badge/OnePlus-9%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
 [![](https://img.shields.io/badge/iPhone-XS-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Blackberry-Classic-000000?style=flat-square&logo=blackberry&logoColor=ffffff)](https://www.blackberry.com/)
 
@@ -38,4 +38,9 @@
 [![](https://img.shields.io/badge/-MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+
+#### Console&Game
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
+[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
 

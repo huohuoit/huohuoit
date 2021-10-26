@@ -1,7 +1,7 @@
 ### ✨HuoHuo is always on the way 💗🤠💗
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
-  <img src="https://weather-icon.huohuoit.repl.co/@shenzhen?v=1" align="right">
+  <img src="https://weather-icon.journeyad.repl.co/@shanghai?v=1" align="right">
 </p>
 
 [![huohuoit's GitHub stats](https://github-readme-stats.vercel.app/api?username=huohuoit&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
